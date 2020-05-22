@@ -91,7 +91,7 @@
         {
             "id": "data_1",
             "properties": {
-                "models": "intrinsic cardiac neurons",
+                "label": "Intrinsic cardiac neurons",
                 "dataset": "https://sparc.science/datasets/29?type=dataset"
             }
         },
@@ -112,7 +112,7 @@
         {
             "id": "data_4",
             "properties": {
-                "models": "cardiac cells",
+                "label": "Cardiac cells",
                 "dataset": "https://sparc.science/datasets/23?type=dataset"
             }
         },
@@ -561,7 +561,7 @@
             "route": "(cardio_22, cardio_23, cardio_24, cardio_25), S50_C6_T, S45_C6, C82, S50_C7_T, S45_C7, C83, S50_C8_T, S45_C8, C84, S50_T1_B, S50_T1_T, S45_T1, C85, S50_T2_B, S50_T2_T, S45_T2, C86, S50_T3_B, S50_T3_T, S45_T3, C87, S50_T4_B, S50_T4_T, S45_T4, C88, S50_T5_B, S50_T5_T, S45_T5, C89, S50_T6_B, S50_T6_T, S45_T6, C90,(S44_C6, S44_C7, S44_C8, S44_T1, S44_T2, S44_T3, S44_T4, S44_T5, S44_T6)"
         },
         {
-            "id": "path_72",
+            "id": "path_62",
             "type": "sensory",
             "path": "P253, P254, P255",
             "route": "(cardio_16, cardio_17), C91, C92, C79, C78, (bolser_9, bolser_14)"
