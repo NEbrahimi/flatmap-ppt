@@ -91,7 +91,7 @@
         {
             "id": "data_1",
             "properties": {
-                "models": "intrinsic cardiac neurons",
+                "label": "Intrinsic cardiac neurons",
                 "dataset": "https://sparc.science/datasets/29?type=dataset"
             }
         },
@@ -112,7 +112,7 @@
         {
             "id": "data_4",
             "properties": {
-                "models": "cardiac cells",
+                "label": "Cardiac cells",
                 "dataset": "https://sparc.science/datasets/23?type=dataset"
             }
         },
