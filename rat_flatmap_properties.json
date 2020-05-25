@@ -64,30 +64,21 @@
             "id": "simulation_1",
             "properties": {
                 "models": "UBERON:0001759",
-                "simulations": "",
+                "simulations": ""
             }
         },
 		{
             "id": "simulation_2",
             "properties": {
-                "models": [
-				"ILX:0738316",
-				"urinary_13",
-				]
-				"label": [
-				"aortic arch chemoreceptors",
-				"carotid sinus baroreceptors",
-				"carotid body chemoreceptor",	
-				"muscle",
-				]
-                "simulations": "",
+                "models": "UBERON:0000948",
+                "simulations": ""
             }
         },
 		{
             "id": "simulation_3",
             "properties": {
                 "label": "cardiac ventricular cells",
-                "simulations": "https://sparc.science/datasets/63?type=dataset",
+                "simulations": "https://sparc.science/datasets/63?type=dataset"
             }
         },		
         {
@@ -131,7 +122,7 @@
                 "models": "UBERON:0001884",
                 "dataset": [
 				"https://sparc.science/datasets/52?type=dataset",
-				"https://sparc.science/datasets/52?type=dataset",
+				"https://sparc.science/datasets/52?type=dataset"
 				]
             }
         },
