@@ -59,47 +59,59 @@
             "properties": {
                 "label": "Trachea"
             }
-        },		
+        },
         {
             "id": "scaffold_1",
             "properties": {
                 "models": "UBERON:0000948",
-                "scaffold": "heart"
+                "scaffolds": [
+                    "heart"
+                ]
             }
         },
         {
             "id": "scaffold_2",
             "properties": {
                 "models": "UBERON:0001155",
-                "scaffold": "colon"
+                "scaffolds": [
+                    "colon"
+                ]
             }
         },
         {
             "id": "scaffold_3",
             "properties": {
                 "models": "UBERON:0001255",
-                "scaffold": "bladder"
+                "scaffolds": [
+                    "bladder"
+                ]
             }
         },
         {
             "id": "scaffold_4",
             "properties": {
                 "models": "UBERON:0000945",
-                "scaffold": "stomach"
+                "scaffolds": [
+                    "stomach"
+                ]
             }
         },
         {
             "id": "data_1",
             "properties": {
                 "label": "peripheral neural circuits",
-                "dataset": "https://sparc.science/datasets/32?type=dataset"
+                "datasets": [
+                    "https://sparc.science/datasets/32?type=dataset"
+                ]
             }
         },
         {
             "id": "data_2",
             "properties": {
                 "models": "UBERON:0001155",
-                "dataset": "https://sparc.science/datasets/31?type=dataset"
+                "datasets": [
+                    "https://sparc.science/datasets/31?type=dataset"
+                ]
             }
         },
         {
