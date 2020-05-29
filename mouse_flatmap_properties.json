@@ -70,15 +70,6 @@
             }
         },
         {
-            "id": "scaffold_2",
-            "properties": {
-                "models": "UBERON:0001155",
-                "scaffolds": [
-                    "colon"
-                ]
-            }
-        },
-        {
             "id": "scaffold_3",
             "properties": {
                 "models": "UBERON:0001255",
@@ -111,6 +102,9 @@
                 "models": "UBERON:0001155",
                 "datasets": [
                     "https://sparc.science/datasets/31?type=dataset"
+                ],
+                "scaffolds": [
+                    "colon"
                 ]
             }
         },

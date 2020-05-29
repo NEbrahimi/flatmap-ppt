@@ -157,6 +157,15 @@
             }
         },
         {
+            "id": "lung_data",
+            "properties": {
+                "models": "UBERON:0002048",
+                "scaffolds": [
+                    "lung"
+                ]
+            }
+        },
+        {
             "class": "brain_14",
             "properties": {
                 "label": "VLPAG"
