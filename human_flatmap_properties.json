@@ -1,0 +1,491 @@
+{
+    "features": [
+    {
+        "id": "stomach",
+        "properties":
+        {
+            "models": "UBERON:0000945"
+        }
+    },
+    {
+        "id": "bladder",
+        "properties":
+        {
+            "models": "UBERON:0001255"
+        }
+    },
+    {
+        "id": "Prostate",
+        "properties":
+        {
+            "models": "UBERON:0002367"
+        }
+    },
+    {
+        "id": "Ureter-entry",
+        "properties":
+        {
+            "models": "UBERON:0012303"
+        }
+    },
+    {
+        "id": "Vas-def",
+        "properties":
+        {
+            "models": "UBERON:0001000"
+        }
+    },
+    {
+        "id": "B-trigon",
+        "properties":
+        {
+            "models": "UBERON:0001257"
+        }
+    },
+    {
+        "id": "B-neck-dorsal",
+        "properties":
+        {
+            "models": "UBERON:0001258"
+        }
+    },
+    {
+        "id": "B-dome-dorsal",
+        "properties":
+        {
+            "models": "UBERON:0006082"
+        }
+    },
+    {
+        "id": "B-dome-ventral",
+        "properties":
+        {
+            "models": "UBERON:0006082"
+        }
+    },
+    {
+        "id": "B-neck-ventral",
+        "properties":
+        {
+            "models": "UBERON:0001258"
+        }
+    },
+    {
+        "id": "RSpinct",
+        "properties":
+        {
+            "models": "UBERON:0004919"
+        }
+    },
+    {
+        "id": "r-lung",
+        "properties":
+        {
+            "models": "UBERON:0002048"
+        }
+    },
+    {
+        "id": "l-lung",
+        "properties":
+        {
+            "models": "UBERON:0002048"
+        }
+    },
+    {
+        "id": "heart",
+        "properties":
+        {
+            "models": "UBERON:0000948"
+        }
+    },
+    {
+        "id": "liver",
+        "properties":
+        {
+            "models": "UBERON:0002107"
+        }
+    },
+    {
+        "id": "colon",
+        "properties":
+        {
+            "models": "UBERON:0001155"
+        }
+    },
+    {
+        "id": "ICG",
+        "properties":
+        {
+            "models": "UBERON:0002440"
+        }
+    },
+    {
+        "id": "MCG",
+        "properties":
+        {
+            "models": "UBERON:0001990"
+        }
+    },
+    {
+        "id": "SCG",
+        "properties":
+        {
+            "models": "UBERON:0001989"
+        }
+    },
+    {
+        "id": "T1-SYMP",
+        "properties":
+        {
+            "models": "FMA:6474"
+        }
+    },
+    {
+        "id": "TRCH",
+        "properties":
+        {
+            "models": "UBERON:0003126"
+        }
+    },
+    {
+        "id": "LRNX",
+        "properties":
+        {
+            "models": "UBERON:0001737"
+        }
+    },
+    {
+        "id": "EPIG",
+        "properties":
+        {
+            "models": "UBERON:0000388"
+        }
+    },
+    {
+        "id": "TONG",
+        "properties":
+        {
+            "models": "UBERON:0001723"
+        }
+    },
+    {
+        "id": "CS-left",
+        "properties":
+        {
+            "models": "UBERON:0003708"
+        }
+    },
+    {
+        "id": "CB-left",
+        "properties":
+        {
+            "models": "UBERON:0001629"
+        }
+    },
+    {
+        "id": "eSLN-top",
+        "properties":
+        {
+            "models": "FMA:6243"
+        }
+    },
+    {
+        "id": "eSLN-bottom",
+        "properties":
+        {
+            "models": "FMA:6243"
+        }
+    },
+    {
+        "id": "iSLN",
+        "properties":
+        {
+            "models": "FMA:6240"
+        }
+    },
+    {
+        "id": "GGN",
+        "properties":
+        {
+            "models": "ILX:0738293"
+        }
+    },
+    {
+        "id": "SLN",
+        "properties":
+        {
+            "models": "UBERON:0011326"
+        }
+    },
+    {
+        "id": "ECN-plexus",
+        "properties":
+        {
+            "models": "FMA:6579"
+        }
+    },
+    {
+        "id": "CN-X",
+        "properties":
+        {
+            "models": "UBERON:0001759"
+        }
+    },
+    {
+        "id": "NTS",
+        "properties":
+        {
+            "models": "UBERON:0009050"
+        }
+    },
+    {
+        "id": "CN-X-1",
+        "properties":
+        {
+            "models": "UBERON:0001759"
+        }
+    },
+    {
+        "id": "NDG",
+        "properties":
+        {
+            "models": "UBERON:0005363"
+        }
+    },
+    {
+        "id": "RVLM-1",
+        "properties":
+        {
+            "models": "UBERON:0005807"
+        }
+    },
+    {
+        "id": "ICN-plexus-1",
+        "properties":
+        {
+            "models": "UBERON:0002024"
+        }
+    },
+    {
+        "id": "CN-IX",
+        "properties":
+        {
+            "models": "UBERON:0001649"
+        }
+    },
+    {
+        "id": "PTR",
+        "properties":
+        {
+            "models": "UBERON:0001701"
+        }
+    },
+    {
+        "id": "diaphragm",
+        "properties":
+        {
+            "models": "UBERON:0001103"
+        }
+    },
+    {
+        "id": "Phrenic",
+        "properties":
+        {
+            "models": "UBERON:0001884"
+        }
+    },
+    {
+        "id": "PVN-1",
+        "properties":
+        {
+            "models": "UBERON:0001930"
+        }
+    },
+    {
+        "id": "L-SC",
+        "properties":
+        {
+            "models": "UBERON:0002792"
+        }
+    },
+    {
+        "id": "NTS-1",
+        "properties":
+        {
+            "models": "UBERON:0009050"
+        }
+    },
+    {
+        "id": "SLN-1",
+        "properties":
+        {
+            "models": "UBERON:0011326"
+        }
+    },
+    {
+        "id": "CN-XI",
+        "properties":
+        {
+            "models": "UBERON:0001650"
+        }
+    },
+    {
+        "id": "Pelv-G",
+        "properties":
+        {
+            "models": "UBERON:0016508"
+        }
+    },
+    {
+        "id": "Splanch-pelvic",
+        "properties":
+        {
+            "models": "UBERON:0018675"
+        }
+    },
+    {
+        "id": "Hyp-gas",
+        "properties":
+        {
+            "models": "UBERON:0005303"
+        }
+    },
+    {
+        "id": "Splanch",
+        "properties":
+        {
+            "models": "UBERON:0003715"
+        }
+    },
+    {
+        "id": "ICN-plexus",
+        "properties":
+        {
+            "models": "UBERON:0002024"
+        }
+    },
+    {
+        "id": "PVN",
+        "properties":
+        {
+            "models": "UBERON:0001930"
+        }
+    },
+    {
+        "id": "RTRPZ",
+        "properties":
+        {
+            "models": "UBERON:0009918"
+        }
+    },
+    {
+        "id": "RVLM",
+        "properties":
+        {
+            "models": "UBERON:0005807"
+        }
+    }],
+    "paths": [
+    {
+        "id": "PATH-00001",
+        "path": "SCG-ICN-PVN",
+        "type": "symp-post",
+        "route": "SCG, ICN-plexus, PVN"
+    },
+    {
+        "id": "PATH-00002",
+        "path": "SCG-ICN-RTRPZ",
+        "type": "symp-post",
+        "route": "SCG, ICN-plexus, RTRPZ"
+    },
+    {
+        "id": "PATH-00003",
+        "path": "SCG-ICN-RVLM",
+        "type": "symp-post",
+        "route": "SCG, ICN-plexus, RVLM"
+    },
+    {
+        "id": "PATH-00004",
+        "path": "SCG-ICN-NTS",
+        "type": "symp-post",
+        "route": "SCG, ICN-plexus, NTS"
+    },
+    {
+        "id": "PATH-00005",
+        "path": "SCG-ICN-TRCH",
+        "type": "symp-post",
+        "route": "SCG, ICN-plexus-1, TRCH"
+    },
+    {
+        "id": "PATH-00006",
+        "path": "SCG-ECN-GGN-CB",
+        "type": "symp-post",
+        "route": "SCG, GGN, CB-left"
+    },
+    {
+        "id": "PATH-00007",
+        "path": "SCG-ECN-X-SLN-iSLN-LRNX",
+        "type": "symp-post",
+        "route": "SCG, iSLN, LRNX"
+    },
+    {
+        "id": "PATH-00008",
+        "path": "SCG-ECN-GGN-CS",
+        "type": "symp-post",
+        "route": "SCG, GGN, CS-left"
+    },
+    {
+        "id": "PATH-00009",
+        "path": "SCG-TRCH",
+        "type": "symp-post",
+        "route": "SCG, TRCH"
+    },
+    {
+        "id": "PATH-00010",
+        "path": "SCG-ECN-TONG",
+        "type": "symp-post",
+        "route": "SCG, ECN-plexus, TONG"
+    },
+    {
+        "id": "PATH-00011",
+        "path": "SCG-ECN-X-ILN-iILN-EPIG",
+        "type": "symp-post",
+        "route": "SCG, iILN, EPIG"
+    },
+    {
+        "id": "PATH-00012",
+        "path": "SCG-ECN-X-SLN-eSLN-EPIG",
+        "type": "symp-post",
+        "route": "SCG, eSLN-top, EPIG"
+    },
+    {
+        "id": "PATH-00013",
+        "path": "SCG-ECN-X-SLN-iSLN-EPIG",
+        "type": "symp-post",
+        "route": "SCG, iSLN, EPIG"
+    },
+    {
+        "id": "PATH-00014",
+        "path": "SCG-ECN-X-ILN-eILN-EPIG",
+        "type": "symp-post",
+        "route": "SCG, eILN, EPIG"
+    },
+    {
+        "id": "PATH-00015",
+        "path": "SCG-ECN-X-SLN-eSLN-LRNX",
+        "type": "symp-post",
+        "route": "SCG, eSLN-bottom, LRNX"
+    },
+    {
+        "id": "PATH-00016",
+        "path": "SCG-ICN-TONG",
+        "type": "symp-post",
+        "route": "SCG, CN-XI, TONG"
+    },
+    {
+        "id": "PATH-00017",
+        "path": "SCG-ARCH-b",
+        "type": "symp-post",
+        "route": "SCG, ICG, ARCH-b"
+    }]
+}
