@@ -303,16 +303,16 @@
         },
         {
             "id": "path_24",
-            "type": "symp-post",
+            "type": "somatic",
             "path": "P116",
-            "route": "bolser20_1, bolser20_2, digestive_11",
+            "route": "bolser20_1, bolser20_2, muscle_2",
             "nerves": "bolser10_1, bolser_8"
         },
         {
             "id": "path_25",
             "type": "symp-post",
             "path": "P117",
-            "route": "bolser20_1, bolser20_2, digestive_11",
+            "route": "bolser20_1, bolser20_2, muscle_2",
             "nerves": "bolser2_1"
         },
         {
