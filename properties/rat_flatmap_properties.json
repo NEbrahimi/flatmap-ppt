@@ -735,5 +735,25 @@
             "path": "P270",
             "route": "digestive_38, C99, digestive_39"
         }
+		{
+            "id": "path_83",
+            "type": "para-pre",
+            "path": "P360, P361, P362, P363, P364, P365, P366, P367",
+            "route": "brain_33 ,C144, (lung_1_1, lung_1_2, lung_1_3, lung_1_4)",
+			"nerves": "bolser26_3"
+        }
+		{
+            "id": "path_84",
+            "type": "para-post",
+            "path": "P368, P369, P370, P371, P372, P373, P374, P375",
+            "route": "(lung_1_1, lung_1_2, lung_1_3, lung_1_4), C140, C141, C142, C143, (respiratory_16, respiratory_17, respiratory_18, respiratory_19)"
+        }
+		{
+            "id": "path_85",
+            "type": "para-post",
+            "path": "P376, P377, P378, P379, P380, P381, P382, P383, P384, P385, P386, P387, P388, P389, P390, P391, P392, P393, P394, P395, P396, P397, P398, P399, P400, P401, P402, P403",
+            "route": "(S39_L1, S39_T13, S39_T12, S39_T11, S39_T10, S39_T9, S39_T8, S39_T7, S39_T6, S39_T5, S39_T4, S39_T3, S39_T2, S39_T1), C145,C146, C147, C148, C149, C150, C151, C152, C153, C154, C155, C156, C157, C158, S43_L1, S43_T13, S43_T12, S43_T11, S43_T10, S43_T9, S43_T8, S43_T7, S43_T6, S43_T5, S43_T4, S43_T3, S43_T2, S43_T1, S50_L1_T, S50_T13_T, S50_T12_T, S50_T11_T, S50_T10_T, S50_T9_T, S50_T8_T, S50_T7_T, S50_T6_T, S50_T5_T, S50_T4_T, S50_T3_T, S50_T2_T, S50_T1_T, S50_L1_B, S50_T13_B, S50_T12_B, S50_T11_B, S50_T10_B, S50_T9_B, S50_T8_B, S50_T7_B, S50_T6_B, S50_T5_B, S50_T4_B, S50_T3_B, S50_T2_B, S50_T1_B, S48_L1, S48_T13, S48_T12, S48_T11, S48_T10, S48_T9, S48_T8, S48_T7, S48_T6, S48_T5, S48_T4, S48_T3, S48_T2, S48_T1, S49_L1, S49_T13, S49_T12, S49_T11, S49_T10, S49_T9, S49_T8, S49_T7, S49_T6, S49_T5, S49_T4, S49_T3, S49_T2, S49_T1, S50_L1_B, S50_T13_B, S50_T12_B, S50_T11_B, S50_T10_B, S50_T9_B, S50_T8_B, S50_T7_B, S50_T6_B, S50_T5_B, S50_T4_B, S50_T3_B, S50_T2_B, S50_T1_B, endocrine_5"
+            "nerves": "lung_2"
+        }
     ]
 }
