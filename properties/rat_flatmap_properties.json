@@ -561,7 +561,7 @@
             "path": "P179",
             "route": "bolser_14, C75, C79, bolser_14"
         },
-       {
+        {
             "id": "path_54",
             "type": "symp-post",
             "path": "P180, P181, P182, P183, P184, P185, P186, P187, P188, P189, P190, P191, P192, P193, P194, P195, P196, P197, P198, P199, P200, P201, P202, P203, P204, P205, P206",
@@ -618,7 +618,7 @@
 		{
             "id": "path_63",
             "type": "sensory",
-            "path": "P256, P257, P258, P259, P284"
+            "path": "P256, P257, P258, P259, P284",
             "route": "(digestive_39, digestive_38, digestive_37, digestive_36), bolser_15, C105, brain12_2"
         },
 		{
@@ -666,7 +666,7 @@
 		{
             "id": "path_71",
             "type": "sensory",
-            "path": "P280, P281, P282, P283, P336, P337, P338, P339, P340, P341, P342, P343, P344, P345, P350, P351, P352, P353, P354, P355, P356, P357, P358, P359"
+            "path": "P280, P281, P282, P283, P336, P337, P338, P339, P340, P341, P342, P343, P344, P345, P350, P351, P352, P353, P354, P355, P356, P357, P358, P359",
             "route": "(digestive_34, digestive_36, digestive_38, digestive_39), S50_L2_B, S50_L2_T, S45_L2, C128 , S50_L1_B, S50_L1_T, S45_L1, C129, S50_T13_B, S50_T13_T, S45_T13, C130, S50_T12_B, S50_T12_T, S45_T12, C131, S50_T11_B, S50_T11_T, S45_T11, C132, S50_T10_B, S50_T10_T, S45_T10, C133, S50_T9_B, S50_T9_T, S45_T9, C134, S50_T8_B, S50_T8_T, S45_T8, C135, S50_T7_B, S50_T7_T, S45_T7, C136, S50_T6_B, S50_T6_T, S45_T6, C137, (S44_L2, S44_L1, S44_T13, S44_T12, S44_T11, S44_T10, S44_T9, S44_T8, S44_T7, S44_T6)"
         },
 		{
